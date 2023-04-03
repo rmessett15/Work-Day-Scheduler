@@ -4,6 +4,27 @@ body {
   font-size: 16px;
 }
 
+header {
+  text-align: center;
+}
+
+h1 {
+  margin-top: 10px;
+}
+
+.p-5 {
+  padding: 0rem !important;
+}
+
+#currentDay {
+  margin-bottom: -5px;
+}
+
+#messageSaved {
+  display: flex;
+  justify-content: center;
+}
+
 /* Element selector giving the text area of the html doc these attributes (background, border, resize, color, border-left, & padding */
 textarea {
   background: transparent;
